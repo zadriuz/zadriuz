@@ -1,4 +1,4 @@
-### Darius Cedeño (`@zadriuz`)
+### Franko Darius Dre Q. Cedeño (`@zadriuz`)
 
 **Application & Software Developer** · Pasig City, Metro Manila, Philippines  
 BS Information Technology undergraduate at Pamantasan ng Lungsod ng Pasig (PLP), building desktop applications, Android tools, relational database systems, and game prototypes.
